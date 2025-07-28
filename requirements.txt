@@ -1,0 +1,28 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose
+python-dotenv
+PyPDF2
+pandas
+openpyxl
+streamlit
+transformers
+requests
+pytest
+aiofiles
+google-generativeai
+qdrant-client
+langchain-community
+langchain-huggingface
+langchain-google-genai
+python-multipart
+langchain-groq
+langchain-qdrant
+pydantic[email]
+torch
+numpy
+# SpeechRecognition
+# PyAudio
+# pyttsx3
